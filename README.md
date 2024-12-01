@@ -1,6 +1,6 @@
 # **4-Week HSP Full-Body Training Program** 💪
 
-This plan is designed to help you maximize strength, hypertrophy, and muscle endurance through a combination of **Heavy**, **Stretch**, and **Pump** days. Each session targets all major muscle groups with progressive overload principles to ensure consistent growth. I have not emphasized on lower body much, one can always tweak the exercises and and balance that out. Since the main focus is on looking big in cloths. 
+This plan is designed to help you maximize strength, hypertrophy, and muscle endurance through a combination of **Heavy**, **Stretch**, and **Pump** days. Each session targets all major muscle groups with progressive overload principles to ensure consistent growth. I have not emphasized on lower body much, one can always tweak the exercises and balance that out. Since the main focus is on looking big in cloths. 
 
 ---
 
