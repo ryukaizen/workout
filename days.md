@@ -1,19 +1,5 @@
 
 
-### **Weekly Schedule** 🔄
-
-| Day       | Focus   | Description                      |
-|-----------|---------|----------------------------------|
-| **Day 1** | Heavy   | Strength and power training.     |
-| **Day 2** | Rest    | Recovery and mobility work.      |
-| **Day 3** | Stretch | Eccentric-focused hypertrophy.   |
-| **Day 4** | Rest    | Recovery and mobility work.      |
-| **Day 5** | Pump    | High-rep endurance hypertrophy.  |
-| **Day 6** | Rest    | Recovery and mobility work.      |
-| **Day 7** | Repeat  | Start the next cycle.            |
-
----
-
 ### **Heavy Day** 🏋️‍♂️
 - **Tempo**: 1/1 (controlled, explosive effort)
 - **Reps**: 8 RM for working sets.  
