@@ -1,6 +1,6 @@
 # **4-Week HSP Full-Body Training Program** 💪
 
-This plan is designed to help you maximize strength, hypertrophy, and muscle endurance through a combination of **Heavy**, **Stretch**, and **Pump** days. Each session targets all major muscle groups with progressive overload principles to ensure consistent growth. I have not emphasized on lower body much, one can always tweak the exercises and balance that out. Since the main focus is on looking big in cloths. 
+This plan is designed to help you maximize strength, hypertrophy, and muscle endurance through a combination of **Heavy**, **Stretch**, and **Pump** days. Each session targets all major muscle groups with progressive overload principles to ensure consistent growth. While lower body emphasis is minimized (focusing on an "in-clothes" aesthetic), you can tweak exercises to balance your physique.
 
 ---
 
@@ -14,7 +14,7 @@ This program ensures optimal training volume through progressive overload and ef
   - Pump Day: 6 compound movements × 5 sets = 30 sets  
   - **Total Weekly Sets**: **90 sets**  
 
-  Each muscle group is hit directly or indirectly multiple times a week with varying intensities.
+Each muscle group is hit directly or indirectly multiple times a week with varying intensities.
 
 ---
 
@@ -44,7 +44,7 @@ By cycling through different stimuli (mechanical tension, eccentric overload, an
 
 This program is your roadmap to **breaking barriers**, building strength, and achieving **next-level gains**! 💥
 
-
+---
 
 ## **Training Structure** 🗓️
 
@@ -71,10 +71,11 @@ This program is your roadmap to **breaking barriers**, building strength, and ac
 ### **Heavy Day** 🏋️‍♂️
 - **Tempo**: 1/1 (controlled, explosive effort)
 - **Reps**: 8 RM for working sets.  
+- **Rest**: 20 seconds between warm-up sets; 1–3 minutes between working sets.  
 - **Effort**: Leave 1–2 reps in reserve for all working sets.
 
 | **Muscle Group** | **Exercise**                          | **Details**                                  |
-|------------------|--------------------------------------|----------------------------------------------|
+|------------------|---------------------------------------|----------------------------------------------|
 | **Quads**        | Leg Press                            | 20 RM warm-up, 8 RM working.                 |
 | **Delts**        | Overhead Press                       | 30 RM warm-up, 8 RM working.                 |
 | **Back**         | Pullups (Neutral Grip)               | 30 RM warm-up, 8 RM working.                 |
@@ -87,10 +88,11 @@ This program is your roadmap to **breaking barriers**, building strength, and ac
 ### **Stretch Day** 🧘‍♂️
 - **Tempo**: 1/5 (slow eccentric, controlled)
 - **Reps**: 8 RM for working sets.  
+- **Rest**: 20 seconds between warm-up sets; 1–3 minutes between working sets.  
 - **Effort**: Train to failure and hold the stretch for 20 seconds after each set.
 
 | **Muscle Group** | **Exercise**                          | **Details**                                  |
-|------------------|--------------------------------------|----------------------------------------------|
+|------------------|---------------------------------------|----------------------------------------------|
 | **Quads**        | Bulgarian Split Squats               | 20 RM warm-up, 8 RM working.                 |
 | **Delts**        | Facepulls                            | 30 RM warm-up, 8 RM working.                 |
 | **Back**         | T-Bar Row                            | 30 RM warm-up, 8 RM working.                 |
@@ -103,10 +105,11 @@ This program is your roadmap to **breaking barriers**, building strength, and ac
 ### **Pump Day** 🔥
 - **Tempo**: 0/0 (explosive, fast-paced)
 - **Reps**: 30 RM for working sets.  
+- **Rest**: 20 seconds between warm-up sets; 1–3 minutes between working sets.  
 - **Effort**: Push until the burn; squeeze for the last 5 reps.
 
 | **Muscle Group** | **Exercise**                          | **Details**                                  |
-|------------------|--------------------------------------|----------------------------------------------|
+|------------------|---------------------------------------|----------------------------------------------|
 | **Quads**        | Leg Extensions                       | 20 RM warm-up, 30 RM working.                |
 | **Delts**        | Upright Rows                         | 20 RM warm-up, 30 RM working.                |
 | **Back**         | Lat Pulldown                         | 20 RM warm-up, 30 RM working.                |
@@ -128,7 +131,3 @@ Each week, the ratio of warm-up to working sets will shift to progressively incr
 ## **Notes on Recovery and Gains** 🛌
 - **Recovery**: Rest days are essential. Prioritize sleep, hydration, and proper nutrition to maximize performance.  
 - **Gains**: This program balances hypertrophy (stretch and pump days) with strength (heavy day), ensuring consistent progression over 4 weeks.  
-
----
-
-
