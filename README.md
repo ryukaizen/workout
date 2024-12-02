@@ -1,5 +1,7 @@
 # **4-Week HSP Full-Body Training Program** 💪
 
+Credits: Team 3D Alpha (www.team3dalpha.com)
+
 This plan is designed to help you maximize strength, hypertrophy, and muscle endurance through a combination of **Heavy**, **Stretch**, and **Pump** days. Each session targets all major muscle groups with progressive overload principles to ensure consistent growth. While lower body emphasis is minimized (focusing on an "in-clothes" aesthetic), you can tweak exercises to balance your physique.
 
 ---
